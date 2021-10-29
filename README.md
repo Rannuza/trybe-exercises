@@ -11,11 +11,11 @@
 <h3 class="strong">Bloco 1: Introdução - Unix & Shell</h3>
 <p>1-3: Unix & Shell - Part 1 </p>
 <p>1-4: Unix & Shell - Part 2 </p>
-<h4 class="strong"> Bloco 2: Git & GitHub</h4>
+<h3 class="strong"> Bloco 2: Git & GitHub</h3>
  <p>2-1: O que são e para que serve?</p>
  <p>2-2: Entendendo os comandos</p>
  <p>2-3: Internet - Entendendo como ela funciona</P>
-<h5 class="strong">Bloco 3: Introdução - HTML & CSS</h5>
+<h3 class="strong">Bloco 3: Introdução - HTML & CSS</h3>
 <p>3-1: HTML & CSS - Estruturas de página</p>
  <p>3-2: HTML & CSS - Primeiros passos em CSS</p>
  <p>3-3: HTML & CSS - Seletores e posicionamento</p>
