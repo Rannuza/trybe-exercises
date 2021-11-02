@@ -12,4 +12,6 @@ Aprendemos os comandos:
 - Git push
 - Git pull
 - Git log --diff-filter=D --summary
-- Git checkout (também para ressuscitar arquivos deletados)
+- Git checkout (também para restaurar arquivos deletados)
+
+E como realizar Pull Request no GitHub.
