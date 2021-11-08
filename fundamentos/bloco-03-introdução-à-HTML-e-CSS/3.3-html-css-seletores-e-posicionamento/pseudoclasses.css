@@ -1,0 +1,31 @@
+div:hover {
+    border-width: 10px;
+    border-style: double;
+    border-color: #660708;
+}
+div:first-of-type {
+    background-color: yellow;
+    font-style: italic;
+}
+div:last-of-type {
+    background-color: rgba(0, 255, 242, 0.055);
+    font-weight:900;
+    font-style: italic;
+}
+div:nth-child(4n) {
+    background-color: #80b918;
+    font-size: 30px;
+}
+div:nth-child(5n) {
+    background-color: #be0aff;
+    font-family:monospace;
+    height: 100px;
+    width: auto;
+    font-size: 30px;
+    font-style: italic;
+}
+div:nth-child(6n) {
+    background-color: #03045e;
+    font-style: inherit;
+    color:white;
+}
