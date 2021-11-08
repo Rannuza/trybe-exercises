@@ -1,0 +1,49 @@
+ol {
+    background-color:#ffff3f;
+}
+
+li.par {
+    color: green
+}
+li.impar {
+    text-transform:uppercase;
+}
+h1, h2, h3 {
+    color:#ff0000;
+}
+h1.italico {
+    font-size: 40px;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+}
+li {
+    font-size: 20px;
+}
+li.negrito {
+    font-weight: 600;
+}
+.azul {
+    color: #0466c8;
+}
+.java {
+    background-color: #ff477e;
+}
+.destaque:hover {
+    font-weight: 600;
+}
+.laranja:hover {
+    color: #ff8700;
+}
+.verde:hover {
+    color:#245501
+}
+.preto:hover {
+    color:black
+}
+.amarelo:hover {
+    color: #fcf300;
+}
+.trybe:hover {
+    color: #7cb518;
+}
