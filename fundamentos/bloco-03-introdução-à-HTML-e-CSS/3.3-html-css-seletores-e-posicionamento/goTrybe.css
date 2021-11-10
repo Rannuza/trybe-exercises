@@ -23,10 +23,10 @@ li {
 li.negrito {
     font-weight: 600;
 }
-.azul {
+ul li.azul {
     color: #0466c8;
 }
-.java {
+ul li.java {
     background-color: #ff477e;
 }
 .destaque:hover {
