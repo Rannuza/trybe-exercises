@@ -10,10 +10,15 @@ let a = "";
     console.log(a); 
 } */
 
-for (let indice = 0; indice < n; indice++) {
+/* for (let indice = 0; indice < n; indice++) {
     a = a + "*";
     console.log(a);
+} */
+
+for (let indice = 0; indice < n; indice++) {
+    a = a + "*";
+    for (let i = n; i > 0; i--) {
+        a = " " + a;
+    }
+    console.log(a); 
 }
-
-
-
