@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/CSS" href="formStyle.css">
+  <title>Document</title>
+</head>
+<body>
+  <header id="cabecalho">
+    <h1 class="titulo">Formulário</h1>
+  </header>
+  <form>
+  <fieldset> 
+    <div>
+    <label for="nome">Nome:</label>
+    <input id="nome" type="text" name="nome" max="40" placeholder="Digite seu nome completo"  autofocus required>
+    </div>
+    <div>
+    <label for="email">E-mail:</label>
+    <input id="email" type="email" name="e-mail" max="50" placeholder="Digite seu e-mail"  required>
+    </div>
+    <div>
+    <label for="cpf">cpf:</label>
+    <input id="cpf" type="number" name="CPF" maxlength="11" placeholder="Digite seu CPF" required>
+    </div>
+    <div>
+    <label for="endereco">Endereço:</label>
+    <input id="endereco" type="text" name="endereco" max="200" placeholder="Digite seu endereço(rua, nº e bairro)" required>
+    </div>
+    <div>
+    <label for="cidade">Cidade:</label>
+    <input id="cidade" type="text" name="cidade" max="28" placeholder="Digite o nome da sua cidade" required>
+    </div>
+    <div>
+      <label for="estado">Estado:
+        <select required>
+          <option value="AC">Acre</option>
+          <option value="AL">Alagoas</option>
+          <option value="AM">Amapá</option>
+          <option value="BA">Bahia</option>
+          <option value="CE">Ceará</option>
+          <option value="ES">Espírito Santo</option>
+          <option value="GO">Goiás</option>
+          <option value="MA">Maranhão</option>
+          <option value="MT">Mato Grosso</option>
+          <option value="MS">Mato Grosso do Sul</option>
+          <option value="MG">Minas Gerais</option>
+          <option value="PA">Pará</option>
+          <option value="PB">Paraíba</option>
+          <option value="PE">Pernambuco</option>
+          <option value="PI">Piauí</option>
+          <option value="RJ">Rio de Janeiro</option>
+          <option value="RN">Rio Grande do Norte</option>
+          <option value="RS">Rio Grande do Sul</option>
+          <option value="RO">Rondônia</option>
+          <option value="RR">Roraima</option>
+          <option value="SC">Santa Catarina</option>
+          <option value="SP">São Paulo</option>
+          <option value="SE">Sergipe</option>
+          <option value="TO">Tocantins</option>
+          <option value="DF">Distrito Federal</option>
+        </select>
+    </div>
+    <div>
+      <p>Tipo:</p>
+      <lable for="tipo1"><input type="radio" id=tipo1 name="tipo" value="casa"required>Casa</lable>
+      <lable for="tipo2"><input id=tipo2 type="radio"name="tipo" value="apt" required>Apartamento</lable>
+    </div>
+  </fieldset>
+  <fieldset>
+    <div>
+    <h2>Resumo do curriculo:</h2>
+    <textarea name="textarea1" id="resumo" cols="60" rows="20" maxlength="1000" placeholder="Limite de 1000 caracteres" required></textarea>
+    </div>
+    <div>
+    <label for="cargo">Cargo:</label>
+    <input id="cargo" type="text" name="cargo" max="40" placeholder="Digite seu último cargo" required>
+    </div>
+    <div>
+    <h2>Descrição do cargo:</h2>
+    <textarea name="textarea2" id="descricao" cols="60" rows="10" maxlength="500" placeholder="Limite de 500 caracteres" required></textarea>
+    </div>
+    <div>
+      <label for="data">Data de inicio:</label>
+      <input type="date" name="data" id="data" value="dia-mes-ano" required>
+    </div>
+  </fieldset>
+    <div>
+      <button type="submit" class="botao">Enviar currículo</button>
+    </div>
+  </form>
+  <script scr="formScripy.js"></script>
+</body>
+</html>
