@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Festive&display=swap" rel="stylesheet">
@@ -20,22 +19,33 @@
 <h2> Fundamentos do Desenvolvimento Web </h2>
 
 <h3>Bloco 1: Introdução - Unix & Shell</h3>
-  <ol>
-    <li>1.3: Unix & Shell - Part 1 </li>
-    <li>1.4: Unix & Shell - Part 2</li>
-  </ol>
+  <ul>
+    <li>[x] 3: Unix & Shell - Part 1 </li>
+    <li>[x] 4: Unix & Shell - Part 2</li>
+  </ul>
 <h3> Bloco 2: Git & GitHub</h3>
-  <ol>
-    <li>2-1: O que são e para que serve?</li>
-    <li>2-2: Entendendo os comandos</li>
-    <li>2-3: Internet - Entendendo como ela funciona</li>
-  </ol>
+  <ul>
+    <li>[x] 2.1: O que são e para que serve?</li>
+    <li>[x] 2.2: Entendendo os comandos</li>
+    <li>[x] 2.3: Internet - Entendendo como ela funciona</li>
+  </ul>
 <h3>Bloco 3: Introdução - HTML & CSS</h3>
-<p>3-1: HTML & CSS - Estruturas de página</p>
- <p>3-2: HTML & CSS - Primeiros passos em CSS</p>
- <p>3-3: HTML & CSS - Seletores e posicionamento</p>
- <p>3-4: HTML Semântico</p>
- <p>3-5: Projeto - Lessons Learned</p>
+  <ul>
+    <li>[x] 3.1: HTML & CSS - Estruturas de página</li>
+    <li>[x] 3.2: HTML & CSS - Primeiros passos em CSS</li>
+    <li>[x] 3.3: HTML & CSS - Seletores e posicionamento</li>
+    <li>[x] 3.4: HTML Semântico</li>
+    <li>[x] 3.5: Projeto - Lessons Learned</li>
+  </ul>
+
+<h3>Bloco 4: Introdução - JavaScript</h3>
+  <ul>
+    <li>[x] 4.1: _JavaScript - Primeiros passos_</li>
+    <li>[x] 4.2: _JavaScript - Array e loop For_</li>
+    <li>[x] 4.3: _JavaScript - Lógica de Programação e Algoritmos_</li>
+    <li>[x] 4.4: _JavaScript - Objetos e funções_</li>
+    <li>[x] 4.5: _Projeto - Playground Functions_</li>
+  </ul>
 <p class="strong">[...]</p>
 </body>
 </html>
