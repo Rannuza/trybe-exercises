@@ -25,9 +25,11 @@
     <li>1.4: Unix & Shell - Part 2</li>
   </ol>
 <h3> Bloco 2: Git & GitHub</h3>
- <p>2-1: O que são e para que serve?</p>
- <p>2-2: Entendendo os comandos</p>
- <p>2-3: Internet - Entendendo como ela funciona</P>
+  <ol>
+    <li>2-1: O que são e para que serve?</li>
+    <li>2-2: Entendendo os comandos</li>
+    <li>2-3: Internet - Entendendo como ela funciona</li>
+  </ol>
 <h3>Bloco 3: Introdução - HTML & CSS</h3>
 <p>3-1: HTML & CSS - Estruturas de página</p>
  <p>3-2: HTML & CSS - Primeiros passos em CSS</p>
