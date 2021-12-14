@@ -7,11 +7,6 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Festive&display=swap" rel="stylesheet">
-    <style>
-      .trybe-green {
-      color: #2A6B53;
-    }
-    </style>
 </head>
 <body>
 <h1 class="trybe-green">Trybe</h1>
@@ -52,15 +47,15 @@
   </ul>
 <h3>Bloco 5: Introdução - JavaScript - Projetos<h3>
   <ul>
-      <li>[x] 5.1: JavaScript - DOM e seletores</li>
-      <li>[x] 5.2: JavaScript - Trabalhando com elementos</li>
-      <li>[x] 5.3: JavaScript - Eventos</li>
-      <li>[x] 5.4: JavaScript - Web Storage</li>
-      <li>[x] 5.5: Projeto - Meme Generator</li>
-      <li>[x] 5.6: Projeto - Arte com Pixels</li>
-      <li>[x] 5.7: Projeto - Lista de tarefas</li>
-      <li>[x] 5.7: Projeto - Adivinhe a Cor</li>
-      <li>[x] 5.7: Projeto - Carta Misteriosa</li>
+    <li>[x] 5.1: JavaScript - DOM e seletores</li>
+    <li>[x] 5.2: JavaScript - Trabalhando com elementos</li>
+    <li>[x] 5.3: JavaScript - Eventos</li>
+    <li>[x] 5.4: JavaScript - Web Storage</li>
+    <li>[x] 5.5: Projeto - Meme Generator</li>
+    <li>[x] 5.6: Projeto - Arte com Pixels</li>
+    <li>[x] 5.7: Projeto - Lista de tarefas</li>
+    <li>[x] 5.7: Projeto - Adivinhe a Cor</li>
+    <li>[x] 5.7: Projeto - Carta Misteriosa</li>
   </ul>
 <h3>Bloco 6: HTML & CSS avançado</h3>
   <ul>
