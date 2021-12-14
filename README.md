@@ -22,12 +22,14 @@
     <li>[x] 3: Unix & Shell - Part 1 </li>
     <li>[x] 4: Unix & Shell - Part 2</li>
   </ul>
+    
 <h3> Bloco 2: Git & GitHub</h3>
   <ul>
     <li>[x] 2.1: O que são e para que serve?</li>
     <li>[x] 2.2: Entendendo os comandos</li>
     <li>[x] 2.3: Internet - Entendendo como ela funciona</li>
   </ul>
+    
 <h3>Bloco 3: Introdução - HTML & CSS</h3>
   <ul>
     <li>[x] 3.1: HTML & CSS - Estruturas de página</li>
@@ -45,7 +47,8 @@
     <li>[x] 4.4: JavaScript - Objetos e funções</li>
     <li>[x] 4.5: Projeto - Playground Functions</li>
   </ul>
-<h3>Bloco 5: Introdução - JavaScript - Projetos<h3>
+    
+<h3>Bloco 5: Introdução - JavaScript - Projetos</h3>
   <ul>
     <li>[x] 5.1: JavaScript - DOM e seletores</li>
     <li>[x] 5.2: JavaScript - Trabalhando com elementos</li>
@@ -57,6 +60,7 @@
     <li>[x] 5.7: Projeto - Adivinhe a Cor</li>
     <li>[x] 5.7: Projeto - Carta Misteriosa</li>
   </ul>
+    
 <h3>Bloco 6: HTML & CSS avançado</h3>
   <ul>
     <li>[x] 6.1: HTML & CSS - Forms</li>
@@ -66,6 +70,7 @@
     <li>[x] 6.5: CSS Responsivo - Mobile First</li>
     <li>[x] 6.6: Projeto - Trybewarts</li>
   </ul>
+    
 <h3>Bloco 07: Introdução à JavaScript ES6 e Testes Unitários</h3>
   <ul>
     <li>[x] 7.1: JavaScript ES6 - let, const, arrow functions e template literals</li>
@@ -73,6 +78,7 @@
     <li>[x] 7.3: Primeiros passos em Jest</li>
     <li>[x] 7.4: Projeto - JavaScript Testes Unitários</li>
   </ul>
+    
 <h3>Bloco 08: Higher Order Functions do JavaScript ES6</h3>
   <ul>
     <li>[x] 8.1: JavaScript ES6 - Introdução a Higher Order Functions</li>
@@ -82,6 +88,7 @@
     <li>[ ] 8.5: JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais</li>
     <li>[ ] 8.6: Projeto - Zoo functions</li>
   </ul>
+    
   <h3>Bloco 09: JavaScript e Testes Assíncronos</h3>
   <ul>
     <li>[ ] 9.1: JavaScript Assíncrono e Callbacks</li>
@@ -89,6 +96,7 @@
     <li>[ ] 9.3: Jest - Testes Assíncronos</li>
     <li>[ ] 9.4: Projeto - Carrinho de Compras</li>
   </ul>
+    
 <h2>Em breve... Módulo 2: Desenvolvimento Front-end</h2>
 <p><strong>[...]</strong></p>
 </body>
