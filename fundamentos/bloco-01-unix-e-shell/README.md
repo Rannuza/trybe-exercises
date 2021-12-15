@@ -9,13 +9,12 @@
     <link href="https://fonts.googleapis.com/css2?family=Festive&display=swap" rel="stylesheet">
 </head>
 <body>
-<h1 class="trybe-green">Trybe</h1>
-<p>Este repositório contém todas as atividades de aprendizagem desenvolvidas por Rannuza G. de Lima enquanto estudava na Trybe :rocket:</p>
-<br>
-<p>"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."</p>
-<br>
-<p>O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.</p>
+<h1>Trybe</h1>
 <h2>Módulo 1: Fundamentos do Desenvolvimento Web </h2>
+<p>Este repositório contém todas as atividades de aprendizagem desenvolvidas por Rannuza G. de Lima durante 1º módulo do curso de Desenvolvimento WEB da Trybe :rocket:</p>
+<br>
+<p>"Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar sua carreira no mundo do desenvolvimento Web, virando uma pessoa preparada para os módulos de front-end e back-end. Vamos te guiar, etapa a etapa, por toda essa jornada!" - Trybe</p>
+<br>
 
 <h3>Bloco 1: Introdução - Unix & Shell</h3>
   <ul>
@@ -96,9 +95,6 @@
     <li>[ ] 9.3: Jest - Testes Assíncronos</li>
     <li>[ ] 9.4: Projeto - Carrinho de Compras</li>
   </ul>
-    
-<h2>Em breve... Módulo 2: Desenvolvimento Front-end</h2>
-<p><strong>[...]</strong></p>
 </body>
 </html>
 
