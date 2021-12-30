@@ -178,7 +178,12 @@ const input = document.querySelector('input');
 const adicionar = document.querySelector('#btn-add');
 const taskList = document.querySelector('.task-list');
 function addCompromisso () {
-  taskList.appendChild(document.createElement('li')).textContent = input.value;
+  if (input.value === '') {
+    alert('Digite um novo compromsso!');
+  } else {
+    taskList.appendChild(document.createElement('li')).textContent = input.value;
+    input.value = '';
+  }
 }
 
 adicionar.addEventListener('click', addCompromisso);
