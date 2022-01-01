@@ -185,5 +185,3 @@ function addCompromisso () {
     input.value = '';
   }
 }
-
-adicionar.addEventListener('click', addCompromisso);
