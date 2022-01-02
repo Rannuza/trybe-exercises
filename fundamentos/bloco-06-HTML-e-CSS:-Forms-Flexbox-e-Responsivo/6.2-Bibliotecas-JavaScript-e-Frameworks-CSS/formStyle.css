@@ -1,0 +1,26 @@
+body {
+  background-color: #f0efeb;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+form {
+  background-color: #e2ece9;
+  padding: 40px;
+  box-sizing:content-box;
+  border: solid;
+  border-color: aqua;
+  width: 90%;
+}
+div {
+  padding-bottom: 10px;
+}
+.botao {
+  background-color:aquamarine;
+  font-size: 15px;
+  width: 600;
+}
+.botao:hover {
+  background-color:aqua;
+  text-transform:uppercase;
+}
