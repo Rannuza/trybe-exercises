@@ -1,0 +1,10 @@
+.cabeçalho {
+  background-color: pink;
+  text-align: center;
+}
+
+.App {
+  display: flex;
+  flex-direction: row;
+}
+

@@ -1,0 +1,18 @@
+.header {
+  background-color: pink;
+  text-align: center;
+  font-size: 30px;
+}
+
+.footer {
+  background-color: pink;
+}
+
+h3 {
+  color:rgb(228, 72, 124);
+  font-weight: 600;
+}
+
+li {
+  font-weight: 600;
+}

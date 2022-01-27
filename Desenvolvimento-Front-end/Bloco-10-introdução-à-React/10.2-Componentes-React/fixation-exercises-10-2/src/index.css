@@ -1,0 +1,13 @@
+header {
+  color: palevioletred;
+  text-align: center;
+  font-size: 25px;
+}
+
+.App {
+  background-color: rgba(255, 192, 203, 0.363);
+}
+
+img {
+  margin-left: 20px;
+}
