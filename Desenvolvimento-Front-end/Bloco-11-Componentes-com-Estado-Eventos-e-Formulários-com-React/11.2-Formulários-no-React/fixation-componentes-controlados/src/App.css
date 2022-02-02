@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.Pink {
+  background-color: pink;
+}
+
+.Plum {
+  background-color: plum;
+}
+
+.Deeppink {
+  background-color: deeppink;
+}
+
+.login {
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+  justify-content: space-around;
+  padding-top: 20px;
+  margin: 30px;
+}
+
+.divTextarea {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.textarea {
+  margin: 30px;
+  margin-bottom: 0px;
+}
+
+.checkbox {
+  font-size: 200px;
+  align-self: center;
+}
+
+.botao {
+  width: 150px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
